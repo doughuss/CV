@@ -1,0 +1,32 @@
+body{
+	background: #00A8CC;
+	color: #000839;
+	font-family: helvetica;
+	
+	
+}
+	
+hr{
+	border-color: #000839;
+	border-style: none;
+	border-top-style: dotted;		
+
+	border-width: 7px;
+	width: 2%;
+	
+	
+}
+
+h1{
+	color: #FFA41B;
+	text-shadow: 1px 1px 8px #000839;
+}
+
+h3{
+	color: #FFA41B;
+	text-shadow: 1px 1px 8px #000839;
+}
+
+a{
+	color: #FFA41B;
+}
